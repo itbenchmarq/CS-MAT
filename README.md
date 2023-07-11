@@ -11,6 +11,8 @@ Features:
 Token Generation: The tool provides a user-friendly interface to generate maintenance tokens effortlessly.
 API Client: Client and Secret can be stored for ease-of-use.  Secret is encrypted to the local user's credentials only.
 
+To acquire, go to https://itbenchmarq.com/csmat
+
 Pre-Requisites:
 1. PSFalcon Powershell Module
 2. PowerShell NuGet 
